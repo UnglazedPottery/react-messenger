@@ -1,5 +1,6 @@
 React Messenger App
 - using Socket.io, Bootstrap
+- Socket.io for creating realtime communication between server and client
 
 How it Works:
 - create a new contact or login as an existing contact
