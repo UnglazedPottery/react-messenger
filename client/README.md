@@ -10,3 +10,7 @@ How it Works:
 
 Following Web Dev Simplified's video tutorial
 - link: https://www.youtube.com/watch?v=tBr-PybP_9c&list=PLooxHy79MpJbraZXNn2xabUEr5L4gJrBb&index=10&ab_channel=WebDevSimplified
+
+Terminal commands
+- npm start (from /client)
+- npm run devStart (from /server)
